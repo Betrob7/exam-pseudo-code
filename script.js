@@ -2,12 +2,12 @@
 // Skriv din pseudokod innanför nedanstående kommentarsblock
 /*
 START
-SET variabel summa;
-SET variabel antalVänner;
-SET variabel dricks;
-SET variabel totalSumma;
-SET variabel summaPerPerson;
-SET variabel totalDricks;
+SET variabel summa = 0;
+SET variabel antalVänner = 0;
+SET variabel dricks = 0.0;
+SET variabel totalSumma = 0;
+SET variabel summaPerPerson = 0;
+SET variabel totalDricks = 0;
 
 
 INPUT summa, antalVänner, dricks // användaren matar in summa i kr, antal vänner och dricks i decimalform
