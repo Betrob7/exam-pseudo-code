@@ -9,7 +9,6 @@ SET variabel totalSumma = 0;
 SET variabel summaPerPerson = 0;
 SET variabel totalDricks = 0;
 
-
 INPUT summa, antalVänner, dricks // användaren matar in summa i kr, antal vänner och dricks i decimalform
 
 IF summa > 0 && antalVänner > 0 && dricks <= 1 THEN
